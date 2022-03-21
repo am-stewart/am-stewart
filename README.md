@@ -8,6 +8,7 @@ It was that same time that we also had to relocate due to my husband's job. I to
 
 I think the whole time I was exploring those careers, I had the idea of coding and software development in the back of my mind but was too afraid to make the leap. After talking with a friend who works closely with software developers, he advised me that he thought it would be something I would love. He told me about Lambda School (now Bloom Institute of Technology), which allows you the freedom of attending the school with no financial obligation until you get hired. With nothing to lose I decided to jump. I have never been so happy with a decision as I am with this one. The only thing I regret is that I didn't do it sooner. I can't wait to continue learning and growing as a software developer!
 
+📫 amstewart@yahoo.com
 <!--
 **am-stewart/am-stewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
